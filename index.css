@@ -1,0 +1,90 @@
+
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background: #ededed;
+    font-size: 16px;
+    color: #a5a5a5;
+}
+.header{
+    width: 980px;
+    height: 86px;
+    margin:0 auto;
+    border-bottom: px solid #d1d1d1;
+}
+
+.header h1{
+    font-weight: normal;
+    font: 30px "微软雅黑";
+    color: #a5a5a5;
+    text-align: center;
+    line-height: 86px;
+}
+.header strong{
+    font-size: 14px;
+    font-weight: normal;
+}
+.fenlei {
+    width: 980px;
+    color: #a5a5a5;
+    margin: 7px auto;
+}
+.fenlei-title {
+    font-size: 14px;
+    height: 42px;
+    line-height: 42px;
+}
+.fenlei h3{
+    font: 14px "微软雅黑";
+    height: 40px;
+    line-height: 42px;
+}
+.fenlei p{
+    font: 18px/30px "楷体";
+    text-align: center;
+}
+.remai{
+    width: 602px;
+    text-indent: 2em;
+    font:16ox/30ox "楷体";
+    color:#a5a5a5;
+    margin: 10px auto;
+}
+.remai p em{
+    font-style: normal;
+    text-decoration: underline;
+}
+.footer{
+    width: 600px;
+    text-align: center;
+    margin-top: 10px;
+    margin: 0 auto;
+}
+.remai h2{
+    font: 16px "微软雅黑";
+    font-weight: bold;
+
+}
+
+.footer-text {
+    font-weight: bold;
+    font-size: 16px;
+    font-family: "微软雅黑";
+}
+
+.boss {
+    margin: 30px;
+}
+
+.boss > img{
+    float: left;
+}
+
+.boss-msg {
+    float: left;
+    text-align: left;
+}
+
+
